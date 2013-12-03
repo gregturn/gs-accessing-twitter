@@ -1,3 +1,6 @@
+---
+categories: [twitter]
+---
 :spring_boot_version: 0.5.0.M6
 :spring_social_twitter_version: 1.1.x
 :spring_security_version: 3.2.x
