@@ -1,5 +1,6 @@
 ---
 categories: [twitter]
+projects: [spring-social-twitter]
 ---
 :spring_boot_version: 0.5.0.M6
 :spring_social_twitter_version: 1.1.x
